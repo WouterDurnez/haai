@@ -1,4 +1,4 @@
-name: Fence publish Pipeline
+name: Haai publish Pipeline
 
 # Manually trigger required
 on:
